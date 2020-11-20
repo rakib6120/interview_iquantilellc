@@ -46,7 +46,7 @@
                                         </p>
                                     </div>
                                     <div class="col-md-4">
-                                        <p>{{ $item->rate }} start</p>
+                                        <p>{{ $item->rate }} star</p>
                                         <p>{{ $item->comment }}</p>
                                     </div>
                                     <div class="col-md-2">{{ $data->created_at }}</div>
