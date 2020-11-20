@@ -11,6 +11,7 @@
                         <div class="card">
                             <div class="card-body">
                                 <img src="https://adminlte.io/themes/v3/dist/img/user2-160x160.jpg" alt="" class="rounded-circle" style="width:3em; height: 3em" />
+                                <span>{{ $data->video_uploader->name }}</span>
                                 <p>{{ $data->desc }}</p>
                             </div>
                         </div>
